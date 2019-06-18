@@ -7,7 +7,7 @@ package arshweek1;
 
 import java.util.Scanner;
 
-/**
+/**klmikjmuijnujuiiu
  *
  * @author Ankush
  */
