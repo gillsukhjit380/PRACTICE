@@ -9,7 +9,7 @@ import java.util.Scanner;
 
 /**klmikjmuijnujuiiu
  *
- * @author Ankush
+ * @author sukhjit
  */
 public class Arshweek1 {
 
